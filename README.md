@@ -25,11 +25,6 @@ A full-fledged Apollo Server 2 with Apollo Client 2 starter project with React, 
   * example of using Facebook's dataloader
 * E2E testing
 
-## Installation
-
-* `git clone git@github.com:rwieruch/fullstack-apollo-react-express-boilerplate-project.git`
-* `cd fullstack-apollo-react-express-boilerplate-project`
-
 ### Client
 
 * `cd client`
@@ -66,8 +61,3 @@ The `SECRET` is just a random string for your authentication. Keep all these inf
   * to match it from package.json: `createdb mytestdatabase` with psql
 * one terminal: npm run test-server
 * second terminal: npm run test
-
-## Want to learn more about React + GraphQL + Apollo?
-
-* Don't miss [upcoming Tutorials and Courses](https://www.getrevue.co/profile/rwieruch)
-* Check out current [React Courses](https://roadtoreact.com)
